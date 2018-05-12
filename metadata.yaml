@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3903
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36958#A-Child-of-the-Jago
 gutenberg_issued: '2011-08-03'
 gutenberg_type: Text
 identifiers:
